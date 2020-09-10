@@ -8,3 +8,12 @@
 - Data_Set1~9: Thermal images are labeled by RGB pose estimation (i.e., OpenPose).
 - OpenPose: The first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.\
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
+
+# Citation
+@ARTICLE{xxxxx,
+  author={I-Chien Chen, Chang-Jen Wang, Chao-Kai~Wen, Shiow-Jyu Tzou},
+  journal={IEEE Access}, 
+  title={Multi-person Pose Estimation Using Thermal Images}, 
+  year={2020},
+  volume={},
+  pages={},}
