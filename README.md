@@ -11,9 +11,9 @@ https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 # Citation
 @ARTICLE{xxxxx,
-  author={I-Chien Chen, Chang-Jen Wang, Chao-Kai~Wen, Shiow-Jyu Tzou},
-  journal={IEEE Access}, 
-  title={Multi-person Pose Estimation Using Thermal Images}, 
-  year={2020},
-  volume={},
+  author={I-Chien Chen, Chang-Jen Wang, Chao-Kai~Wen, Shiow-Jyu Tzou},\
+  journal={IEEE Access},\
+  title={Multi-person Pose Estimation Using Thermal Images},\ 
+  year={2020},\
+  volume={},\
   pages={},}
