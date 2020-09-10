@@ -1,6 +1,6 @@
 # ThemalPost-Data for "Multi-person Pose Estimation Using Thermal Images"
 (c) 2020 I-Chien Chen, Chang-Jen Wang, Chao-Kai Wen, and Shiow-Jyu Tzou\
-(c) e-mail: dkman0988@gmail.com, chaokai.wen@mail.nsysu.edu.tw\
+(c) e-mail: dkman0988@gmail.com, chaokai.wen@mail.nsysu.edu.tw
 
 --------------------------------------------------------------------------------------------------------------------------
 # Information:
