@@ -16,5 +16,5 @@ https://github.com/CMU-Perceptual-Computing-Lab/openpose
    title={Multi-person Pose Estimation Using Thermal Images},\
    year={2020},\
    volume={},\
-   pages={},
+   pages={},\
   }
