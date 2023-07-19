@@ -10,7 +10,7 @@
 https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
 # Data download url:
-https://www.dropbox.com/sh/048bg25zrxstato/AACxKi9J5BL4dAXJ2eX8anhRa?dl=0
+https://www.dropbox.com/sh/3rr6ikrnjtajwpy/AACfiXPd7kOtP3Qq9WeA-5v4a?dl=0
 
 We provide the images of RGB and thermal in pair that you can use them for other applications.
 
